@@ -1,0 +1,35 @@
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title> Poll about something </title>
+		<link rel="stylesheet" type="text/css" href="Hw5_style.css"/>
+		<script type="text/javascript" src="Hw5_script.js"> </script>
+		
+	</head>
+	
+	<body>
+		<div class="container">
+			<h1 class="title"> Take our poll </h1>
+			<h3 class="title"> What Basketball team are you rooting for this season? </h3>
+			
+			<form name="form" class="form" method="post" action="Hw5.php">
+				<p class="text"> <input type="radio" name="radio" value="OKC Thunder"> Oklahoma City Thunder <br> </p>
+				<p class="text"> <input type="radio" name="radio" value="The Clevelend Cavaliers"> Cleveland Cavaliers <br> </p>
+				<p class="text"> <input type="radio" name="radio" value="Golden State Warriors"> Golden State Warriors <br> </p>
+				<p class="text"> <input type="radio" name="radio" value="S.A Spurs"> San Antonio Spurs <br> </p>
+				<p class="text"> <input type="radio" name="radio" value="Another Team"> A different NBA team <br> </p> <br>
+				<p class="title"> Please enter your email: </p>
+				
+				<div id="buttons">
+					<input id ="email" class="button1" type="text" name="email"> 
+					<p id="submit" class="button"> </p>
+				</div>
+				
+				
+			</form>
+			<p id="check" ><button class="button" onclick="checkSubmission()"> Check Submission </button> </p> </br>
+			 </br> <p style ="width:800px;" class="title" id="message"> </p>
+		</div>
+	</body>
+
+</html>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<items>
+	<phone>
+	<image>Phone_Pics/Samsung_Galaxy_S7.jpg </image>
+	<name> Samsung Galaxy S7 Edge</name>
+	<price>$525 </price>
+	<quantity>10 </quantity>
+	</phone>
+
+	<phone>
+	<image> Phone_Pics/Google_Pixel.jpg </image>
+	<name> Google Pixel </name>
+	<price> $989 </price>
+	<quantity> 17 </quantity>
+	</phone>
+
+	<phone>
+	<image>Phone_Pics/Apple_iPhone7.jpg </image>
+	<name> Apple iPhone 7 </name>
+	<price> $699 </price>
+	<quantity> 22 </quantity>
+	</phone>
+
+	<phone>
+	<image> Phone_Pics/LG_G6.jpg </image>
+	<name> LG G6 </name>
+	<price> $700 </price>
+	<quantity> 11 </quantity>
+	</phone>
+
+	<phone>
+	<image> Phone_Pics/OnePlus_3T.jpg</image>
+	<name> OnePlus 3T </name>
+	<price> $433 </price>
+	<quantity> 27 </quantity>
+	</phone>
+
+	<phone>
+	<image> Phone_Pics/Honor_8.jpg </image>
+	<name> Honor 8 Pro </name>
+	<price> $515 </price>
+	<quantity> 6 </quantity>
+	</phone>
+
+	<phone>
+	<image> Phone_Pics/HTC_10.jpg </image>
+	<name> HTC 10 </name>
+	<price> $426 </price>
+	<quantity> 7 </quantity>
+	</phone>
+
+	<phone>
+	<image> Phone_Pics/Huawei_P10.jpg </image>
+	<name> Huawei P10 Plus </name>
+	<price> $819 </price>
+	<quantity> 32 </quantity>
+	</phone>
+</items>
+

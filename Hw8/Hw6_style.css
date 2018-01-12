@@ -1,0 +1,63 @@
+.item{
+	width:50%;
+	margin:auto;
+	background-color:#f0b3ff;
+	padding:30px;
+	border-radius:15px;
+	margin-top:20px;
+}
+
+.image{
+	display:block;
+	margin:auto;
+	width:500px;
+	height:350px;
+}
+
+.name, .text{
+	font-family:Palation Linotype;
+	color:white;
+}
+.red{
+	background-color:red;
+}
+.button{
+	padding:5;
+	background-color:#d11aff;
+	font-family:Palatino Linotype;
+	color:white;
+	border-radius:10px;
+}
+
+.welcome{
+	color:#b366ff;
+	font-family:Palatino Linotype;
+	width:100%;
+	text-align:center;
+}
+
+.input{
+	padding:5px;
+	color:#b366ff;
+}
+.entry{
+	width:100%;
+	
+}
+
+.snapshot_i{
+	width:300;
+	height:220;
+	border-radius:15px;
+}
+
+.snapshot{
+	float:right;
+	margin:0;
+	padding:0;
+	border:0;
+}
+
+.form{
+	width:40%;
+}

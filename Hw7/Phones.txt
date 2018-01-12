@@ -1,0 +1,8 @@
+Samsung Galaxy S7 Edge|Phone_Pics/Samsung_Galaxy_S7.jpg|$525|10
+Google Pixel|Phone_Pics/Google_Pixel.jpg|$989|17
+Apple iPhone 7|Phone_Pics/Apple_iPhone7.jpg|$699|22
+LG G6|Phone_Pics/LG_G6.jpg|$700|11
+OnePlus 3T|Phone_Pics/OnePlus_3T.jpg|$433|27
+Honor 8 Pro|Phone_Pics/Honor_8.jpg|$515|6
+HTC 10|Phone_Pics/HTC_10.jpg|$426|7
+Huawei P10 Plus|Phone_Pics/Huawei_P10.jpg|$819|32
